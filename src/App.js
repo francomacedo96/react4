@@ -11,6 +11,10 @@ function App() {
           alt="" 
         />
       </div>
+      <div className='tareas-lista-principal'>
+        <h1>Mis Tareas</h1>
+        
+      </div>
     </div>
   );
 }
