@@ -5,7 +5,11 @@ function App() {
   return (
     <div className="aplicacion-tareas">
       <div className='logo-contenedor'>
-        <img src={logo} className='logo' alt="" />
+        <img 
+          src={logo} 
+          className='logo' 
+          alt="" 
+        />
       </div>
     </div>
   );
