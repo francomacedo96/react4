@@ -1,6 +1,5 @@
 import './App.css';
 import logo from "./imagenes/logo192.png";
-import Formulario from "./componentes/Formulario.jsx";
 import ListaDeTareas from './componentes/ListaDeTareas';
 
 function App() {

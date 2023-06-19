@@ -28,7 +28,7 @@
 }
 
 .tarea-contenedor.completada{
-    background-color: rgb(121, 22, 212);
+    background-color: rgb(121, 22, 212) !important;
     text-decoration: line-through;
 }
 
